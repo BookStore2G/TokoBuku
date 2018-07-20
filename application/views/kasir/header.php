@@ -32,4 +32,3 @@
   </head>
 
   <body>
-  <audio src="<?php echo base_url();?>assets/music/rhoma.mp3" autoplay controls hidden></audio>

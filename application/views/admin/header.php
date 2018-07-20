@@ -32,4 +32,3 @@
   </head>
 
   <body>
-  <audio src="<?php echo base_url();?>assets/music/DAV.mp3" autoplay controls hidden></audio>

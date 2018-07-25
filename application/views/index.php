@@ -35,7 +35,7 @@
 	</head>
 	 
 
-  <body  background="<?php echo base_url();?>assets/img/e.jpg" Style="width:100%;height:100%;">
+  <body  background="<?php echo base_url();?>assets/img/library.jpg" Style="width:100%;height:100%;">
  <div class="container">
   
 	  <center>

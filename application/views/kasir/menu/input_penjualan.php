@@ -86,7 +86,7 @@
 							Rp. <?php if($query2->total==$total){if($query3<=0){echo "";} else{ echo number_format($query2->uang,2);}} else{echo "";}?>
 							</h3>
 							<h2>
-							<small>Uang Kembeli</small>
+							<small>Uang Kembali</small>
 							Rp. <?php if($query2->total==$total){if($query3<=0){echo "";} else{ echo number_format($query2->kembali,2);}} else{echo "";}?>
 							</h2>
 						</blockquote>

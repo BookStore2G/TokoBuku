@@ -15,7 +15,7 @@
 			<th>No.</th>
 			<th>Kasir</th>
 			<th>Total</th>
-			<th>Uang pembali</th>
+			<th>Uang Pembeli</th>
 			<th>Uang Kembali</th>
 			<th>Tanggal</th>
 			<th>Opsi</th>
